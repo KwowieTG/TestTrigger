@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Tenants>
+  <Tenant>
+    <TenantId>{00000000-0000-0000-0000-000000000000}</TenantId>
+    <OrganizationId>{00000000-0000-0000-0000-000000000000}</OrganizationId>
+    <TargetURL>https://bms.kaseya.com/scim</TargetURL>
+    <HomeRealm>someorg-somecompany.my.authanvil.com</HomeRealm>
+    <ClientId>cp-4nVPov2a_kSR_sSgAaJd6w</ClientId>
+    <SecretKey>uUPbekgyClxExcwIDjH1jA==</SecretKey>
+    <SCIMVersion>1.1</SCIMVersion>
+  </Tenant>
+  <Tenant>
+    <TenantId>{00000000-0000-0000-0000-000000000001}</TenantId>
+    <OrganizationId>{00000000-0000-0000-0000-000000000001}</OrganizationId>
+    <TargetURL>https://somcompany.kaseya.com/scim</TargetURL>
+    <HomeRealm>someorg-somecompany.my.authanvil.com</HomeRealm>
+    <ClientId>cp-4nVPov2a_kSR_sSgAaJd6w</ClientId>
+    <SecretKey>uUPbekgyClxExcwIDjH1jA==</SecretKey>
+    <SCIMVersion>1.1</SCIMVersion>
+  </Tenant>
+  
+</Tenants>
+
+
